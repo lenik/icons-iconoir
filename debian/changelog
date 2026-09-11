@@ -1,0 +1,5 @@
+iconoir (1.0.0-1) unstable; urgency=medium
+
+  * Initial packaging with iconlibutils launcher.
+
+ -- Lenik <iconoir@bodz.net>  Fri, 11 Sep 2026 18:52:03 +0800

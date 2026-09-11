@@ -1,0 +1,11 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: iconoir
+Source: https://github.com/iconoir-icons/iconoir.git
+
+Files: *
+Copyright: Upstream authors
+License: MIT
+
+Files: debian/*
+Copyright: 2026 Lenik <iconoir@bodz.net>
+License: MIT
