@@ -1,4 +1,4 @@
-# Installed by icons-iconoir — discovered as /usr/share/iconlibutils/library/iconoir/
+# Installed by icons-iconoir as /usr/share/iconlibutils/library/iconoir
 name=iconoir
 type=auto
 path=/usr/share/icons-iconoir
@@ -7,3 +7,5 @@ license=MIT
 homepage=https://iconoir.com/
 description=Iconoir icons
 package=icons-iconoir
+icons_root=orig/icons
+faiss_index=/usr/share/icons-iconoir

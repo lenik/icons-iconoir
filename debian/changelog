@@ -1,5 +1,7 @@
-iconoir (1.0.0-1) unstable; urgency=medium
+icons-iconoir (1.0.0) unstable; urgency=medium
 
-  * Initial packaging with iconlibutils launcher.
+  * Packaging as icons-iconoir with iconlibutils launcher.
+  * Install prebuilt index/ web preview and FAISS faiss.* beside icons.
+  * library.iconlib: icons_root + faiss_index for natural-language search.
 
- -- Lenik <iconoir@bodz.net>  Fri, 11 Sep 2026 18:52:03 +0800
+ -- Lenik (谢继雷) <lenik@bodz.net>  Sat, 12 Sep 2026 03:58:06 +0800

@@ -1,12 +1,12 @@
 Source: icons-iconoir
 Section: graphics
 Priority: optional
-Maintainer: Lenik <icons-iconoir@bodz.net>
+Maintainer: Lenik (谢继雷) <lenik@bodz.net>
 Build-Depends: debhelper-compat (= 13), meson, ninja-build, python3, iconlibutils
 Standards-Version: 4.6.2
 Homepage: https://iconoir.com/
-Vcs-Browser: https://github.com/lenik/pkg-icons-iconoir
-Vcs-Git: https://github.com/lenik/pkg-icons-iconoir.git
+Vcs-Browser: https://github.com/lenik/icons-iconoir
+Vcs-Git: https://github.com/lenik/icons-iconoir.git
 Rules-Requires-Root: no
 
 Package: icons-iconoir
@@ -17,4 +17,4 @@ Description: Iconoir icons
  Iconoir icons
  .
  Provides icon assets under /usr/share/icons-iconoir, a preview index, and a
- launcher `icons-iconoir` (`iconlibutils -l iconoir`).
+ launcher `icons-iconoir` (`iconlib -l iconoir`).
