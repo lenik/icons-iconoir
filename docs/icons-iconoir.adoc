@@ -1,0 +1,34 @@
+= icons-iconoir(1)
+{project-author} <{project-email}>
+v{project-version}, {project-year}
+:doctype: manpage
+:manmanual: User Commands
+:mansource: icons-iconoir
+:man-linkstyle: blue R <>
+:nofooter:
+
+== Name
+
+icons-iconoir - Iconoir icons
+
+== Synopsis
+
+*icons-iconoir* [_OPTION_]...
+
+== Description
+
+Iconoir icons.
+
+== Options
+
+*-h, --help*::
+  Show a short usage summary and exit.
+
+== Author
+
+Written by {project-author} <{project-email}>.
+
+== Copyright
+
+Copyright (C) {project-year}.
+License AGPL-3.0-or-later.
